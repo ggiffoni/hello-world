@@ -1,3 +1,4 @@
+# Exemplo de uso de classe e objeto.
 class Pessoa:
     def __init__(self, nome, ender):
         self.set_nome(nome)
