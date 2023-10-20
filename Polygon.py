@@ -7,3 +7,5 @@ def polygon(t, length, n):
 
 
 polygon("bob", 10, 30)
+
+turtle.mainloop()

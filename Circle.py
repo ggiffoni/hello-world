@@ -22,3 +22,5 @@ def circle(t, r):
 
 circle(t, 200)
 
+turtle.mainloop()
+

@@ -9,4 +9,6 @@ def square(t, length):
 
 square("bob", 300)
 
+turtle.mainloop()
+
 
