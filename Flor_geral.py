@@ -143,6 +143,6 @@ def rodar_petala(t, r, angulo, passo_angular, n):
 #rotacionar(t, 100, 90, 60, 4)
 #petala(t, 100, 90)
 
-rodar_petala(t, 100, 90, 60, 6)
+rodar_petala(t, 30,90, 120, 3)
 
 turtle.mainloop()
